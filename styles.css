@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+#d1{
+	margin:20px;
+	width:300px;
+	padding:50px;
+	border: 15px blue solid ;
+	background-color:lightblue;
+}
